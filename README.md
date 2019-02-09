@@ -1,1 +1,1 @@
-# substratekitties
+# substrate-package
